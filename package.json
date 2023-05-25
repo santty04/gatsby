@@ -1,0 +1,26 @@
+{
+  "name": "gatsby",
+  "version": "1.0.0",
+  "description": "Ecommerce con Gatsby",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santty04/gatsby.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santty04/gatsby/issues"
+  },
+  "homepage": "https://github.com/santty04/gatsby#readme",
+  "dependencies": {
+    "gatsby": "^5.10.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
